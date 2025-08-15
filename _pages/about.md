@@ -10,25 +10,35 @@ redirect_from:
 I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn/). With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
 
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**The Hong Kong University of Science and Technology (Guangzhou)**
+• M.Phil. in Data Science and Analytics (Aug. 2022 - Oct. 2023)
+• GPA: 3.76/4
+• Academic papers: 3
+• Co-author of multiple research papers published in top-tier conferences like NeurIPS
+**The Chinese University of Hong Kong (CUHK)**
+• M.Sc. in Systems Engineering and Engineering Management
+**Nankai University**
+• B.Mgmt. in International Accounting (Sep. 2012 - July 2016)
+• GPA: 87.6/100, ranking top 15%
+• Recipient of the Academic Year Scholarship
+• Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra (Barcelona, Spain)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Goldman: Reading the Fed, Riding the Trend in Gold Markets with Multi-Agent LLMs
+  • Authors : Qiqi Duan, Changlun Li, Yao Shi, Yizhang Zhu, Yuyu Luo, Nan Tang
+  • Conference : NeurIPS 2025 (Under Review)
+  • Abstract : This paper presents a multi-agent system that leverages large language models (LLMs) to optimize decision-making in the gold market by            incorporating real-time geopolitical, inflation, and policy data.
+2. Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking
+  • Authors : Changlun Li, Yao Shi, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
+  • Conference : NeurIPS 2025 (Under Review)
+  • Abstract : This research addresses potential information leakage in LLM-driven trading strategies by evaluating them in real-time testing environments.      It also includes contributions to agent functionality development and experimental validation.
+3. Automatic Modeling and Analysis of Students' Problem-Solving Handwriting Trajectories
+  • Authors : Zhonghua Sheng, Shuyu Shen, Leixian Shen, Qiqi Duan, Nan Tang, Pan Hui, Huamin Qu, Yuyu Luo
+  • Conference : AIED
+  • Abstract : This study focuses on modeling handwriting trajectories to reveal students' problem-solving behaviors. It contributes to the development of       educational tools that enhance learning analytics.
 
 Site-wide configuration
 ------
