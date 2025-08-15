@@ -9,36 +9,27 @@ redirect_from:
 
 I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn/). With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
 
-
 Education
 ======
-**The Hong Kong University of Science and Technology (Guangzhou)**
-• M.Phil. in Data Science and Analytics (Aug. 2022 - Oct. 2023)
-• GPA: 3.76/4
-• Academic papers: 3
-• Co-author of multiple research papers published in top-tier conferences like NeurIPS
-**The Chinese University of Hong Kong (CUHK)**
-• M.Sc. in Systems Engineering and Engineering Management
-**Nankai University**
-• B.Mgmt. in International Accounting (Sep. 2012 - July 2016)
-• GPA: 87.6/100, ranking top 15%
-• Recipient of the Academic Year Scholarship
-• Recipient of annual full-fund exchange opportunity to University of Pompeu Fabra (Barcelona, Spain)
+* M.Phil. in Data Science and Analytics (Aug. 2022 - Oct. 2023), The Hong Kong University of Science and Technology (Guangzhou)
+* M.Sc. in Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK)
+* B.Mgmt. in International Accounting (Sep. 2012 - July 2016), Nankai University
 
 Publications
 ======
-1. Goldman: Reading the Fed, Riding the Trend in Gold Markets with Multi-Agent LLMs
-  • Authors : Qiqi Duan, Changlun Li, Yao Shi, Yizhang Zhu, Yuyu Luo, Nan Tang
-  • Conference : NeurIPS 2025 (Under Review)
-  • Abstract : This paper presents a multi-agent system that leverages large language models (LLMs) to optimize decision-making in the gold market by            incorporating real-time geopolitical, inflation, and policy data.
-2. Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking
-  • Authors : Changlun Li, Yao Shi, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
-  • Conference : NeurIPS 2025 (Under Review)
-  • Abstract : This research addresses potential information leakage in LLM-driven trading strategies by evaluating them in real-time testing environments.      It also includes contributions to agent functionality development and experimental validation.
-3. Automatic Modeling and Analysis of Students' Problem-Solving Handwriting Trajectories
-  • Authors : Zhonghua Sheng, Shuyu Shen, Leixian Shen, Qiqi Duan, Nan Tang, Pan Hui, Huamin Qu, Yuyu Luo
-  • Conference : AIED
-  • Abstract : This study focuses on modeling handwriting trajectories to reveal students' problem-solving behaviors. It contributes to the development of       educational tools that enhance learning analytics.
+**1. Goldman: Reading the Fed, Riding the Trend in Gold Markets with Multi-Agent LLMs**
+  * Authors : Qiqi Duan, Changlun Li, Yao Shi, Yizhang Zhu, Yuyu Luo, Nan Tang
+  * Conference : NeurIPS 2025 (Under Review)
+  * Abstract : This paper presents a multi-agent system that leverages large language models (LLMs) to optimize decision-making in the gold market by           incorporating real-time geopolitical, inflation, and policy data.
+**2. Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking**
+  * Authors : Changlun Li, Yao Shi, Chen Wang, Qiqi Duan, Runke Ruan, Weijie Huang, Haonan Long, Lijun Huang, Yuyu Luo, Nan Tang
+  * Conference : NeurIPS 2025 (Under Review)
+  * Abstract : This research addresses potential information leakage in LLM-driven trading strategies by evaluating them in real-time testing environments.     It also includes contributions to agent functionality development and experimental validation.
+**3. Automatic Modeling and Analysis of Students' Problem-Solving Handwriting Trajectories**
+  * Authors : Zhonghua Sheng, Shuyu Shen, Leixian Shen, Qiqi Duan, Nan Tang, Pan Hui, Huamin Qu, Yuyu Luo
+  * Conference : AIED
+  * Abstract : This study focuses on modeling handwriting trajectories to reveal students' problem-solving behaviors. It contributes to the development of      educational tools that enhance learning analytics.
+
 
 Site-wide configuration
 ------
