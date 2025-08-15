@@ -9,7 +9,6 @@ redirect_from:
 
 I'm Qiqi Duan, a passionate and dedicated M.Phil. student in Data Science and Analytics at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn/). With a strong academic background and diverse research experience, I am committed to exploring the intersection of data science, machine learning, and real-world applications. My journey in academia and industry has equipped me with a unique skill set and a drive to tackle complex problems through innovative solutions.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
